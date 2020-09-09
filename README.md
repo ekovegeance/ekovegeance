@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 💬 Ask me about
+
 
 Software engineering, IT enthusiastic, Programming,InfoSec.
 
