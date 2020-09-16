@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">I'am a Software engineering, IT enthusiastic, Programming,InfoSec.</h3>
+<h3 align="center">I'am a Software engineering from Indonesian</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekovegeance" alt="ekovegeance" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekovegeance&show_icons=true" alt="ekovegeance" /></p>
@@ -9,6 +9,9 @@
 
 
 - 💬 Ask me about
+     Programming
+     Hacking
+     
 
 
 
