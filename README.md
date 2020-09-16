@@ -9,8 +9,8 @@
 
 
 - 💬 Ask me about
-     Programming
-     Hacking
+      .Programming
+      .Hacking
      
 
 
