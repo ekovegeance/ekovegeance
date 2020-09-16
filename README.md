@@ -1,9 +1,16 @@
 ### Hi there 👋
 
+<h3 align="center">I'am a Software engineering, IT enthusiastic, Programming,InfoSec.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekovegeance" alt="ekovegeance" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekovegeance&show_icons=true" alt="ekovegeance" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekovegeance&layout=compact&hide=html" alt="ekovegeance" /></p>
+
+
 - 💬 Ask me about
 
 
-Software engineering, IT enthusiastic, Programming,InfoSec.
 
 <!--
 **ekovegeance/ekovegeance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
