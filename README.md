@@ -7,7 +7,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekovegeance&layout=compact&hide=html" alt="ekovegeance" /></p>
 
-- 💬 Ask me about Programming and Hacking
+- 💬 Ask me about Programming. Hacking
      
 
 
