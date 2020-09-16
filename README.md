@@ -7,9 +7,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekovegeance&layout=compact&hide=html" alt="ekovegeance" /></p>
 
-
-
-- <p align="left"> <img src="https://img.shields.io/badge/-LEADER-red" alt="evsystem.github.io" /> in evsystem </p>
+<p align="left"> <img src="https://img.shields.io/badge/-LEADER-red" alt="evsystem.github.io" /> in evsystem </p>
      
 
 
