@@ -11,6 +11,7 @@
 - 💬 Ask me about
       .Programming
       .Hacking
+- <p align="left"> <img src="https://img.shields.io/badge/-STAFF-blue" alt="ekovegeance" /> </p>
      
 
 
