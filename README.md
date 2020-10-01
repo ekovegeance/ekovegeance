@@ -9,7 +9,7 @@
 
 - 💬 Ask me about Programming. Hacking
 
-<br><p><img align="center" src="https://github.com/ekovegeance/ekovegeance/blob/master/branching.png" alt="branch eko" /> </p>
+<br><p><img align="center" src="https://github.com/ekovegeance/ekovegeance/blob/master/branching.png"/> </p>
      
 
 
