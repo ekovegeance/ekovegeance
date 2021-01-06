@@ -6,11 +6,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekovegeance&show_icons=true" alt="ekovegeance" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekovegeance&layout=compact&hide=html" alt="ekovegeance" /></p>
+<p><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ekovegeance&layout=compact&theme=default" />
+</a></p>
 
 - 💬 Ask me about Programming. Hacking
 
-<br><p><img align="center" src="https://github.com/ekovegeance/ekovegeance/blob/master/branching.png"/> </p>
+
 
      
 
