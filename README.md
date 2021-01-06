@@ -16,7 +16,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekovegeance&show_icons=true&theme=buefy" alt="ekovegeance" /></p>
 
-<p><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ekovegeance&layout=compact&theme=buefy" />
+<p><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ekovegeance&theme=buefy" />
 </a></p>
 
 - 💬 Ask me about Programming.Open Source
