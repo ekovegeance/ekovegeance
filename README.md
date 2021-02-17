@@ -1,4 +1,4 @@
-<h2>Github</3> <img align="center" src="https://github.com/ekovegeance/ekovegeance/blob/master/pro.png" width="60" height="30"/>
+<h2>Github</3> <img align="center" src="https://github.com/ekovegeance/ekovegeance/blob/master/icon.png" width="60" height="30"/>
 
 
 <h3 align="center">I'am a Software engineering from Indonesian</h3>
