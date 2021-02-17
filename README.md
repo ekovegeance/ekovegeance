@@ -22,7 +22,7 @@
 
 - 💬 Ask me about Programming.Open Source
 
-<img align="center" src="https://github.com/ekovegeance/ekovegeance/blob/master/html.png" witdh="200" height="300"/>
+<img align="center" src="https://github.com/ekovegeance/ekovegeance/blob/master/pro.png" witdh="200" height="300"/>
 
 
 
