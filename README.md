@@ -25,11 +25,24 @@
 <img align="center" src="https://github.com/ekovegeance/ekovegeance/blob/master/pro.png" witdh="200" height="300"/>
 
 
+📫 How to reach me:
 
+- Website : www.ekovegeance.xyz
+- Email   : ev@ekovegeance.xyz
+- Dev     : https://dev.to/ekovegeance
+- Medium  : https://ekovegeance.medium.com
+- Twitter : https://twitter.com/ekovegeance7
+- LinkedIn :  https://www.linkedin.com/in/ekovegeance
+- gitlab  : https://gitlab.com/ekovegeance
+
+
+⚡ Addr
+- GPG : 8BCCC78E527B1135
+- Bitcoin : 1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
 
 
      
-
+**Palembang, Indonesia**
 
 
 <!--
