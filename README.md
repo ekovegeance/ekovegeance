@@ -28,7 +28,7 @@
 📫 How to reach me:
 
 - Website : www.ekovegeance.com
-- Email   : ev@ekovegeance.com
+- Email   : me@ekovegeance.com
 - Dev     : https://dev.to/ekovegeance
 - Medium  : https://ekovegeance.medium.com
 - Twitter : https://twitter.com/ekovegeance7
