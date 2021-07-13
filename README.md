@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center">I'am a Software engineering from Indonesian</h3>
+<h3 align="center">I'am a Software engineering from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekovegeance" alt="ekovegeance" /> </p>
 
 **Languages and Tools:**  
