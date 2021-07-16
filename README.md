@@ -25,7 +25,7 @@
 <img align="center" src="https://github.com/ekovegeance/ekovegeance/blob/master/pro.png" witdh="200" height="300"/>
 
 
-📫 How to reach me:
+📫 ekovegance Domains :
 
 - Website : www.ekovegeance.com
 - Email   : me@ekovegeance.com
