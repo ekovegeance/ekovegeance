@@ -1,4 +1,4 @@
-<h3 align="center">I'am a Software engineering from Indonesia</h3>
+<h3 align="center">I'am a Software engineering from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekovegeance" alt="ekovegeance" /> </p>
 
 **Programming languages:**  
