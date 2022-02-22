@@ -1,5 +1,6 @@
 <h3 align="center">I'am a Software engineering from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekovegeance" alt="ekovegeance" /> </p>
+<img src="https://wakatime.com/badge/user/b1d540cc-876d-44c2-a1db-ddb92a4686e9.svg" alt="ekovegeance"/>
 
 **Programming languages:**  
 
