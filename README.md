@@ -22,6 +22,7 @@
 **Databases:**
 
 <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongo&logoColor=white" /></code>
 
 **Tools:**
 
