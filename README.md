@@ -28,7 +28,7 @@
 
 <code><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></code>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekovegeance&show_icons=true" alt="ekovegeance" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekovegeance&show_icons=true&include_all_commits=true" alt="ekovegeance" /></p>
 
 <p><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ekovegeance" />
 </a></p>
