@@ -8,7 +8,7 @@
 
 <code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></code>
-<code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Python-f2c43a?style=for-the-badge&logo=python&logoColor=white" /></code>
 
 
 **Frameworks and Libraries:**
@@ -17,12 +17,12 @@
 <code><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></code>
-
+<code><img src="https://img.shields.io/badge/laravel-a80a0a?style=for-the-badge&logo=laravel&logoColor=white" /></code>
 
 **Databases:**
 
 <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongo&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/MongoDB-208f18?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
 
 **Tools:**
 
