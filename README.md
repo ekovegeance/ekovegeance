@@ -4,12 +4,20 @@
 Hello :wave:
 
 I'm Eko Saputra
-Programmer. Based in India
+Tech | Cyber Security | Start-up Enthusiast.
+
+Gymbros ✨
 
 
-- 💬 Ask me about Programming.Open Source
 
 
+
+
+     
+
+
+
+<!--
 📫 ekovegance Domains :
 
 - Website : www.ekovegeance.com
@@ -27,12 +35,6 @@ Programmer. Based in India
 - Dogecoin : D8LgXt1yjTXxSyMkxb6e5s26WQTmEx1JNj
 - Hns Coin : hs1qsvvem3d6ftzh6prlzl0uhha4qjt0q73y6ey893
 
-
-     
-
-
-
-<!--
 **ekovegeance/ekovegeance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
