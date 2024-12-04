@@ -36,7 +36,8 @@ I take pride in making precise decisions under pressure, completing tasks with a
 
 
 ## 🏆 Achievements  
-- Successfully improved UI/UX for various platforms, focusing on user-centric designs.  
+- Successfully improved UI/UX for various platforms, focusing on user-centric designs.
+- GitHub Arctic Code Vault  
 - Participated in a **history competition** on transportation themes.  
 
 
