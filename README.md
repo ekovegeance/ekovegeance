@@ -17,17 +17,17 @@ I take pride in making precise decisions under pressure, completing tasks with a
 
 
 ## 💼 Professional Experience  
-- **Front End Developer** *([PT. Inaprint Lentera Teknologi Sriwijaya](https://www.payoprint.id/))*  
+- **Front End Developer** ([PT. Inaprint Lentera Teknologi Sriwijaya](https://www.payoprint.id/))  
   - Developing and maintaining complex web applications using React and Node.js.  
   - Collaborating with cross-functional teams to design and implement new features.  
 
-- **Intern - Support Team Lead** *([LOKO Sistem Terintegrasi](https://loko.co.id/))*  
+- **Intern - Support Team Lead** ([LOKO Sistem Terintegrasi](https://loko.co.id/))  
   - Led the development of **Skodi** (Sekolah Koding Indonesia), an online coding platform using Laravel.  
 
-- **UI Designer** *([PT. Inaprint Lentera Teknologi Sriwijaya](https://www.payoprint.id/))*  
+- **UI Designer** ([PT. Inaprint Lentera Teknologi Sriwijaya](https://www.payoprint.id/))  
   - Created intuitive and responsive user interfaces with Figma, ensuring optimal user experiences.  
 
-- **Project Intern** *([LOKO Sistem Terintegrasi](https://loko.co.id/))*  
+- **Project Intern** ([LOKO Sistem Terintegrasi](https://loko.co.id/))
   - Contributed to the development of a campus information system with features for managing academic data.
     
 
