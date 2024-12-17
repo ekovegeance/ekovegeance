@@ -8,7 +8,7 @@ I'm a **Designer & Software Engineer** passionate about building impactful softw
 I take pride in making precise decisions under pressure, completing tasks with attention to detail, and always meeting deadlines.  
 
 
-## 🔧 Tech Stack  
+### Tech Stack  
 - **Languages:** JavaScript (TypeScript), PHP, HTML, CSS  
 - **Frameworks & Libraries:** React.js, Next.js, Laravel, Express.js  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
@@ -16,7 +16,7 @@ I take pride in making precise decisions under pressure, completing tasks with a
 - **Methodologies:** Atomic Design, Agile Development  
 
 
-## 💼 Professional Experience  
+### Professional Experience  
 - **Front End Developer** ([PT. Inaprint Lentera Teknologi Sriwijaya](https://www.payoprint.id/))  
   - Developing and maintaining complex web applications using React and Node.js.  
   - Collaborating with cross-functional teams to design and implement new features.  
@@ -31,21 +31,21 @@ I take pride in making precise decisions under pressure, completing tasks with a
   - Contributed to the development of a campus information system with features for managing academic data.
     
 
-## 🌱 What I'm Currently Working On  
+### What I'm Currently Working On  
 - Exploring advanced front-end and back-end integrations with **Next.js**, **Prisma ORM** and **Auth.js**. [Fullstack Next Templates](https://github.com/marketplace/fullstack-next-templates/)
 
 
-## 🏆 Achievements  
+### Achievements  
 - Successfully improved UI/UX for various platforms, focusing on user-centric designs.
 - GitHub Arctic Code Vault  
 - Participated in a **history competition** on transportation themes.  
 
 
-## 📫 Let's Connect!  
+### Let's Connect!  
 - **LinkedIn:** [linkedin.com/in/ekovegeance](https://linkedin.com/in/ekovegeance)  
 
 
-## 🚀 Fun Fact  
+### Fun Fact  
 I enjoy creating systems that are not just functional but also aesthetically pleasing. Outside of coding, I run a fruit-cutting business called **Fruit and Chop**, delivering fresh fruit both online and offline!  
 
 
