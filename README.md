@@ -10,7 +10,7 @@ I take pride in making precise decisions under pressure, completing tasks with a
 
 ### Tech Stack  
 - **Languages:** JavaScript (TypeScript), PHP, HTML, CSS  
-- **Frameworks & Libraries:** React.js, Next.js, Laravel, Express.js  
+- **Frameworks & Libraries:** React.js, Next.js, Laravel, TailwindCSS  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Tools:** Figma, Git.
 - **Methodologies:** Atomic Design, Agile Development  
