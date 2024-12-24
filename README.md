@@ -32,7 +32,8 @@ I take pride in making precise decisions under pressure, completing tasks with a
     
 
 ### What I'm Currently Working On  
-- Exploring advanced front-end and back-end integrations with **Next.js**, **Prisma ORM** and **Auth.js**. [Fullstack Next Templates](https://github.com/marketplace/fullstack-next-templates/)
+- Exploring advanced front-end and back-end integrations with **Laravel**, **Inertia:React**. [Fullstack Laravel Templates](https://github.com/ekovegeance/laravel-templates)
+- Exploring advanced front-end and back-end integrations with **Next.js**, **Prisma ORM** and **Auth.js**. [Fullstack Next Templates](https://github.com/ekovegeance/next-templates)
 
 
 ### Achievements  
