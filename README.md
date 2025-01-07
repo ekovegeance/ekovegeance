@@ -1,8 +1,3 @@
-
-
-
-
-## About Me  
 I'm a **Designer & Software Engineer** passionate about building impactful software solutions and delivering exceptional user experiences. My career is deeply influenced by web technologies and the open-source ecosystem.  
 
 
