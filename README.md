@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Eko Saputra  
+
 
 ## About Me  
 I'm a **Designer & Software Engineer** passionate about building impactful software solutions and delivering exceptional user experiences. My career is deeply influenced by web technologies and the open-source ecosystem.  
@@ -12,6 +12,7 @@ I'm a **Designer & Software Engineer** passionate about building impactful softw
 
 
 <!--
+# 👋 Hi, I'm Eko Saputra  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekovegeance" alt="ekovegeance" /> </p>
 I take pride in making precise decisions under pressure, completing tasks with attention to detail, and always meeting deadlines.  
 
